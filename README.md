@@ -32,7 +32,9 @@ The Results output should look like this:
 Save the results as "Results.csv" and upload into the same directory where this file is. It will be used in the Python notebook below.  
 
 Also save the resultant "Count Mask" image file with the name "Count_Mask_22946173.tif" and upload into the [image_files](image_files) directory. (It should show up below once it is uploaded).  
-![](image_files/This_One.tif)
+![](image_files/Count_Mask_22946173.tif)
+
+(I cannot get this file to display. I even tried with a different file name and retrieval pathway but it is not working. Please check in the file repository you will see multiples as well as one titled "This_One.tif" that is tried as an alt. name)
 
 Q4) How many particles were detected?  
 A4) 1417 
