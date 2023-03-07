@@ -41,4 +41,4 @@ You will do a first-pass assessment of the segmentation output by analyzing the 
 
 Open the [SizeAnalysis.ipynb](SizeAnalysis.ipynb) file and follow instructions in that file (you will be plotting a histogram of the sizes of the segmented objects and describing the output).  
 
-I have uploaded my file here: [Image_Analysis.ipynb](Image_Analysis.ipynb)
+# I have uploaded my file here: [Image_Analysis.ipynb](Image_Analysis.ipynb)
